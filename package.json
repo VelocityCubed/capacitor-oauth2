@@ -52,16 +52,15 @@
   "peerDependencies": {
     "@capacitor/core": "^6.0.0"
   },
-  "dependencies": {},
   "devDependencies": {
     "@capacitor/android": "^6.0.0",
     "@capacitor/core": "^6.0.0",
     "@capacitor/ios": "^6.0.0",
     "@types/jest": "26.0.24",
-    "jest": "27.0.6",
-    "ts-jest": "27.0.4",
     "eslint": "7.32.0",
+    "jest": "27.0.6",
     "rimraf": "3.0.2",
-    "typescript": "4.1.5"
+    "ts-jest": "27.0.4",
+    "typescript": "4.5.2"
   }
 }
